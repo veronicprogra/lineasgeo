@@ -1,0 +1,81 @@
+#pagina{
+    background-color: black;
+    
+}
+
+h1{
+    color: DarkMagenta;
+    font-size: 3rem;
+    font-family: "Script MT Bold";
+    text-align: center;
+}
+p{
+    color: plum;
+    font-size: 1rem;
+    font-family: "MV boli";
+    background-color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin: 1rem
+}
+#botones{
+    color:Plum ;
+    margin: 2rem;
+    font-size: 1rem;
+    font-family: MV Boli;
+    background-color: rgb(0,0,0);
+    text-align: center;
+}
+input{
+    color:rgb(17, 16, 17);
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#micanvas{
+    text-align: center;
+    background-color: rgb(0,0,0);
+}
+canvas{
+    background-color:beige;
+    margin: 1rem;
+    border: purple;
+    border-width: 5px;
+    border-style: solid;
+}
+#dibujo{
+    text-align: center;
+    background-color:  Orchid;
+}
+button{
+    border-radius: 10px;
+    border: black;
+    margin: 1rem;
+    font-family: "MV boli";
+    color: black;
+}
+    #dibujar{
+        color: black;
+        border-radius: 5px;
+        margin-bottom: 0.5rem;
+        font-size: 19px;
+        background-color:beige
+    }
+        #dibujar:hover{
+        background-color:rgb(180, 65, 225)
+       } 
+    #limpieza{
+        color: black;
+        border-radius: 5px;
+        margin-bottom: 0.5rem;
+        font-size: 19px;
+        background-color:beige
+    }
+       #limpieza:hover{
+        background-color:rgb(180, 65, 225)
+       } 
+#cantidadlineas{
+    font-family: "MV boli";
+    color: black;
+    border-radius: 5px ;
+}
